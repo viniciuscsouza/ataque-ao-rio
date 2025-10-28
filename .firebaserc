@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "ataque-ao-rio"
+  },
+  "et": {
+    "ataque-ao-rio": [
+      ".env.ataque-ao-rio"
+    ]
+  }
+}
